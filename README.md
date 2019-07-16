@@ -5,6 +5,7 @@
 
  ### How to install
 ```
+ sudo pip install imutils
  sudo apt install python-opencv
  sudo pip install opencv-contrib-python
  ```
